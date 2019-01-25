@@ -8,6 +8,8 @@ An app to connect commitmentphobes and chillers who want to play sports.
 
 Project team: @zurda, @charlielafosse, @tantsandras, @saksiva
 
+[Project Final Presentation](https://hackmd.io/p/rJ4E35D74#/)
+
 ## How to run our project :tada:
 
 Either
